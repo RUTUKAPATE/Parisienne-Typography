@@ -1,7 +1,7 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
--- import: rutukapate.github.io/parisienne-typography
+-- import: rutukapate.github.io/Parisienne-Typography
 
 
 
@@ -23,7 +23,7 @@ Below are our default fastn `inherited` font types of parisienne-typography.
 
 
 -- display-type:
-types: $parisienne-typography.types
+types: $Parisienne-Typography.types
 
 
 -- end: ds.page
